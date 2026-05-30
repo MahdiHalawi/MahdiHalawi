@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahdi Halawi
 
-<!--
-**MahdiHalawi/MahdiHalawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring AI Developer | Python Enthusiast
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning: **Machine Learning fundamentals, Pandas, Scikit-learn**
+- 🐍 Python: Solid foundation – now applying it to AI
+- 🚀 My goal: Build and share 6 ML projects this year
+- 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What's coming soon
+Check back for my first AI projects:
+- 🔹 Sentiment analysis on movie reviews
+- 🔹 Housing price predictor
+- 🔹 Handwritten digit classifier
+
+### 📊 Weekly learning log
+I document my journey here – follow along!
+
+| Week | Topic | Progress |
+|------|-------|----------|
+| 1 | Python review + NumPy | ✅ Done |
+| 2 | Pandas data manipulation | 🔄 In progress |
+| 3 | First ML model (Linear Regression) | 📅 Planned |
+
+---
+
+*“The best way to learn is to build in public.”*
