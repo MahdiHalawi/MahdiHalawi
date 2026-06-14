@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mahdi Halawi
 ## AI Developer | Python Enthusiast
 
-- 🎯 **Goal achieved:** Built 10 ML projects across 8 domains in one journey
-- 🌱 Currently exploring: **What's next in AI**
+- 🎯 **Goal achieved:** Built 10 ML projects across 8 domains
+- 🌱 Currently mastering: **Object Detection — People Counter, License Plate, Pose Estimation**
 - 🐍 Python: Solid foundation – applying it to real-world AI projects
 - 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
 
 ---
 
-## 🏆 Goal Achieved — 10 Projects Completed
+## 🏆 Foundation — 10 Projects Completed
 
 I built 10 AI projects in **strict progression** – from traditional ML
 to deep learning, object detection, time series, transformers, and deployment.
@@ -32,9 +32,22 @@ to deep learning, object detection, time series, transformers, and deployment.
 
 ---
 
+## 🔬 Currently Mastering — Object Detection
+
+Going deep into computer vision with a structured 4-phase plan:
+
+| # | Project | Concepts | Status |
+|---|---------|----------|--------|
+| 11 | **People Counter** | Tracking, DeepSORT, Re-ID, ByteTrack | ✅ Done |
+| 12 | **License Plate Detector** | Small objects, OCR integration | 🔄 Next |
+| 13 | **Pose Estimation** | Keypoints, MediaPipe, YOLOv8-pose | 🔜 Planned |
+| 14 | **Medical Imaging** | Specialized datasets, production UI | 🔜 Planned |
+
+---
+
 ## 🚀 Capstone — AI Dashboard
 
-My final project combines **3 AI models in one Streamlit app**:
+My project #10 combines **3 AI models in one Streamlit app**:
 - 🍎 Fruit Detector (YOLOv8)
 - 🚨 Disaster Tweet Classifier (BERT)
 - 📈 Stock Price Predictor (LSTM)
@@ -57,6 +70,8 @@ My final project combines **3 AI models in one Streamlit app**:
 | 10 | Time Series: LSTM stock predictor | ✅ Done |
 | 11 | Advanced NLP: BERT disaster tweets | ✅ Done |
 | 12 | Capstone: AI Dashboard (3 models, 1 app) | ✅ Done |
+| 13 | Object Detection Mastery: Theory + People Counter | ✅ Done |
+| 14 | Object Detection Mastery: License Plate + OCR | 🔄 Next |
 
 ---
 
