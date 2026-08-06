@@ -2,7 +2,7 @@
 ## Full Stack Engineer & AI Developer | Python Enthusiast
 
 - 🎯 **Goal achieved:** Built 10 ML projects across 8 domains
-- 🌱 Currently mastering: **Object Detection — People Counter, License Plate, Pose Estimation**
+- 🌱 Currently mastering: **Object Detection — Pose Estimation, Medical Imaging**
 - 🐍 Python + JavaScript: Applying both to real-world AI and full-stack projects
 - 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
@@ -10,9 +10,6 @@
 ---
 
 ## 🏆 Foundation — 10 ML Projects Completed
-
-I built 10 AI projects in **strict progression** – from traditional ML to deep learning,
-object detection, time series, transformers, and deployment.
 
 | # | Project | Domain | Tech | Score |
 |---|---------|--------|------|-------|
@@ -34,14 +31,12 @@ object detection, time series, transformers, and deployment.
 
 ## 🔬 Currently Mastering — Object Detection
 
-Going deep into computer vision with a structured 4-phase plan:
-
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
 | 11 | **People Counter** | Tracking, DeepSORT, Re-ID, ByteTrack | ✅ Done |
-| 12 | **License Plate Detector** | YOLOv11, Small objects, OCR integration | ✅ Done |
-| 13 | **Pose Estimation** | Keypoints, MediaPipe, YOLOv8-pose | 🔜 Next |
-| 14 | **Medical Imaging** | Specialized datasets, production UI | 🔜 Planned |
+| 12 | **License Plate Detector** | YOLOv11, Small objects, OCR | ✅ Done |
+| 13 | **Push-up Counter** | Pose estimation, Joint angles, arctan2 | ✅ Done |
+| 14 | **Medical Imaging** | Specialized datasets, production UI | 🔜 Next |
 
 ---
 
@@ -70,9 +65,10 @@ My project #10 combines **3 AI models in one Streamlit app**:
 | 10 | Time Series: LSTM stock predictor | ✅ Done |
 | 11 | Advanced NLP: BERT disaster tweets | ✅ Done |
 | 12 | Capstone: AI Dashboard (3 models, 1 app) | ✅ Done |
-| 13 | Object Detection Mastery: Theory + People Counter | ✅ Done |
-| 14 | Object Detection Mastery: License Plate + OCR | ✅ Done |
-| 15 | Object Detection Mastery: Pose Estimation | 🔜 Next |
+| 13 | Object Detection: Theory + People Counter | ✅ Done |
+| 14 | Object Detection: License Plate + OCR | ✅ Done |
+| 15 | Object Detection: Pose Estimation + Exercise Counter | ✅ Done |
+| 16 | Object Detection: Medical Imaging | 🔜 Next |
 
 ---
 
