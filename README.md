@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Mahdi Halawi
-## AI Developer | Python Enthusiast
+## Full Stack Engineer & AI Developer | Python Enthusiast
 
 - 🎯 **Goal achieved:** Built 10 ML projects across 8 domains
 - 🌱 Currently mastering: **Object Detection — People Counter, License Plate, Pose Estimation**
-- 🐍 Python: Solid foundation – applying it to real-world AI projects
+- 🐍 Python + JavaScript: Applying both to real-world AI and full-stack projects
 - 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
 
 ---
 
-## 🏆 Foundation — 10 Projects Completed
+## 🏆 Foundation — 10 ML Projects Completed
 
-I built 10 AI projects in **strict progression** – from traditional ML
-to deep learning, object detection, time series, transformers, and deployment.
+I built 10 AI projects in **strict progression** – from traditional ML to deep learning,
+object detection, time series, transformers, and deployment.
 
 | # | Project | Domain | Tech | Score |
 |---|---------|--------|------|-------|
@@ -39,8 +39,8 @@ Going deep into computer vision with a structured 4-phase plan:
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
 | 11 | **People Counter** | Tracking, DeepSORT, Re-ID, ByteTrack | ✅ Done |
-| 12 | **License Plate Detector** | Small objects, OCR integration | 🔄 Next |
-| 13 | **Pose Estimation** | Keypoints, MediaPipe, YOLOv8-pose | 🔜 Planned |
+| 12 | **License Plate Detector** | YOLOv11, Small objects, OCR integration | ✅ Done |
+| 13 | **Pose Estimation** | Keypoints, MediaPipe, YOLOv8-pose | 🔜 Next |
 | 14 | **Medical Imaging** | Specialized datasets, production UI | 🔜 Planned |
 
 ---
@@ -71,21 +71,24 @@ My project #10 combines **3 AI models in one Streamlit app**:
 | 11 | Advanced NLP: BERT disaster tweets | ✅ Done |
 | 12 | Capstone: AI Dashboard (3 models, 1 app) | ✅ Done |
 | 13 | Object Detection Mastery: Theory + People Counter | ✅ Done |
-| 14 | Object Detection Mastery: License Plate + OCR | 🔄 Next |
+| 14 | Object Detection Mastery: License Plate + OCR | ✅ Done |
+| 15 | Object Detection Mastery: Pose Estimation | 🔜 Next |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
