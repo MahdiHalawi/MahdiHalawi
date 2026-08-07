@@ -2,7 +2,7 @@
 ## Full Stack Engineer & AI Developer | Python Enthusiast
 
 - 🎯 **Goal achieved:** Built 10 ML projects across 8 domains
-- 🌱 Currently mastering: **Object Detection — Pose Estimation, Medical Imaging**
+- 🌱 Currently mastering: **Object Detection — Phase 4 Complete!**
 - 🐍 Python + JavaScript: Applying both to real-world AI and full-stack projects
 - 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
@@ -10,6 +10,9 @@
 ---
 
 ## 🏆 Foundation — 10 ML Projects Completed
+
+I built 10 AI projects in **strict progression** – from traditional ML
+to deep learning, object detection, time series, transformers, and deployment.
 
 | # | Project | Domain | Tech | Score |
 |---|---------|--------|------|-------|
@@ -29,14 +32,14 @@
 
 ---
 
-## 🔬 Currently Mastering — Object Detection
+## 🔬 Object Detection Mastery — 4 Phases Complete ✅
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
 | 11 | **People Counter** | Tracking, DeepSORT, Re-ID, ByteTrack | ✅ Done |
 | 12 | **License Plate Detector** | YOLOv11, Small objects, OCR | ✅ Done |
 | 13 | **Push-up Counter** | Pose estimation, Joint angles, arctan2 | ✅ Done |
-| 14 | **Medical Imaging** | Specialized datasets, production UI | 🔜 Next |
+| 14 | **Pneumonia Detector** | Medical imaging, VGG16, Transfer Learning | ✅ Done |
 
 ---
 
@@ -67,8 +70,9 @@ My project #10 combines **3 AI models in one Streamlit app**:
 | 12 | Capstone: AI Dashboard (3 models, 1 app) | ✅ Done |
 | 13 | Object Detection: Theory + People Counter | ✅ Done |
 | 14 | Object Detection: License Plate + OCR | ✅ Done |
-| 15 | Object Detection: Pose Estimation + Exercise Counter | ✅ Done |
-| 16 | Object Detection: Medical Imaging | 🔜 Next |
+| 15 | Object Detection: Pose Estimation | ✅ Done |
+| 16 | Object Detection: Medical Imaging + VGG16 | ✅ Done |
+| 17 | Next chapter — TBD | 🔜 Planned |
 
 ---
 
@@ -79,7 +83,7 @@ My project #10 combines **3 AI models in one Streamlit app**:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logoColor=black)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
