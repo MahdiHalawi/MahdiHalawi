@@ -2,7 +2,7 @@
 ## Full Stack Engineer & AI Developer | Python Enthusiast
 
 - 🎯 **Goal achieved:** Built 10 ML projects across 8 domains
-- 🌱 Currently mastering: **Object Detection — Phase 4 Complete!**
+- 🌱 Currently mastering: **LLMs & Agents — Phase 4 Complete!**
 - 🐍 Python + JavaScript: Applying both to real-world AI and full-stack projects
 - 📫 Reach me: mahdihalawi430 [at] gmail [dot] com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahdi-halawi-31a8693a9/) | [Portfolio (coming soon)]
@@ -43,6 +43,17 @@ to deep learning, object detection, time series, transformers, and deployment.
 
 ---
 
+## 🧠 LLMs & Agents Mastery — 4 Phases Complete ✅
+
+| # | Project | Concepts | Status |
+|---|---------|----------|--------|
+| 15 | **Text Analyzer** | Prompt engineering, JSON output, temperature | ✅ Done |
+| 16 | **Document Q&A** | RAG, ChromaDB, chunking, embeddings | ✅ Done |
+| 17 | **Research Agent** | ReAct, tool calling, memory, LangChain | ✅ Done |
+| 18 | **Production Assistant** | Streaming, safety, evaluation, cost tracking | ✅ Done |
+
+---
+
 ## 🚀 Capstone — AI Dashboard
 
 My project #10 combines **3 AI models in one Streamlit app**:
@@ -72,7 +83,11 @@ My project #10 combines **3 AI models in one Streamlit app**:
 | 14 | Object Detection: License Plate + OCR | ✅ Done |
 | 15 | Object Detection: Pose Estimation | ✅ Done |
 | 16 | Object Detection: Medical Imaging + VGG16 | ✅ Done |
-| 17 | Next chapter — TBD | 🔜 Planned |
+| 17 | LLMs: Foundations + Prompt Engineering | ✅ Done |
+| 18 | LLMs: RAG Systems + Document Q&A | ✅ Done |
+| 19 | LLMs: Agents + ReAct + Memory | ✅ Done |
+| 20 | LLMs: Production Apps + Safety + Streaming | ✅ Done |
+| 21 | Next chapter — TBD | 🔜 Planned |
 
 ---
 
@@ -89,6 +104,7 @@ My project #10 combines **3 AI models in one Streamlit app**:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=flat)
 
 ---
 
